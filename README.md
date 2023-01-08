@@ -11,11 +11,13 @@ In this project, the advantages and the accuracy of the squaring method are comp
 
 Below you can see the main result of our paper: An image of the squared geographical map of Germany with a total of 1,074,000 filled squares at a picture resolution of 475 megapixels. The midpoint is colored RED (Mihla) and the outermost point (outpoint) is green (Sylt - north west). The closer the square is to the midpoint (sum of distances per square), the blacker it is colored. <br/><br/>
 The official caluclation resuts of the coordinates of the midpoint are: <br/>
-ETRS89/UTM (WGS84)  Z: 32U  E: 592769  W: 5659306  (Can be plotted on a map at https://www.koordinaten-umrechner.de/)<br/>
-Converted  Longitude: 51.077808  Latitude: 10.324368  (Can be plotted on a map at https://www.google.de/maps)
+ETRS89/UTM (WGS84) Z: 32U E: 592769 W: 5659306
+ <br/>(Can be plotted on a map at https://www.koordinaten-umrechner.de/)<br/>
+Converted Longitude: 51.077808 Latitude: 10.324368
+ <br/>(Can be plotted on a map at https://www.google.de/maps)
 <br/><br/>
 
-![Result_1](https://github.com/adriankuehn/midpoint_of_germany/blob/main/Images/squaring_bounded_accy_1500_cropped.png)
+![Result_1](https://github.com/adriankuehn/midpoint_of_germany/blob/main/Images/squaring_bounded_accy_1500_cropped_compressed.png)
 <br/><br/>
-![Result_2](https://github.com/adriankuehn/midpoint_of_germany/blob/main/Images/squaring_continous_accy_1500_cropped.png)
+![Result_2](https://github.com/adriankuehn/midpoint_of_germany/blob/main/Images/squaring_continous_accy_1500_cropped_compressed.png)
 
