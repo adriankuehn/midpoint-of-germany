@@ -1,4 +1,4 @@
-# The new geographic midpoint of germany
+# The new geographic midpoint of Germany
 Numerical calculation of the true geographic midpoint of Germany by filling 68k  boundary coordinates with one million squares and then determining the most central square. <br/>
 This repository is the result of a 40 pages long course paper from the 10th class in high school. In order to summarize and publish the key findings of our paper I created a website (only available in German). <br/>
 Have a look at: <a href="https://www.der-mittelpunkt-deutschlands-neu-berechnet.com/">www.der-mittelpunkt-deutschlands-neu-berechnet.com/</a><br /><br />
