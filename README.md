@@ -2,7 +2,7 @@
 Numerical calculation of the true geographic midpoint of Germany by filling 68k  boundary coordinates with one million squares and then determining the most central square. <br/>
 This repository is the result of a 40 pages long course paper from the 10th class in high school. In order to summarize and publish the key findings of our paper I created a website (only available in German and English). <br/>
 Have a look at: <a href="https://www.der-mittelpunkt-deutschlands-neu-berechnet.com/">www.der-mittelpunkt-deutschlands-neu-berechnet.com/</a><br /><br />
-Our work received international media and news attention with 10M+ views, some cool videos are linked below:
+Our work received international media and news attention across TV/PodCasts/NewsPaper/Insta/Youtube with 10M+ views, some cool videos are linked below:
 - https://www.instagram.com/reel/DMKlB8ysrBV
 - https://www.joyn.de/play/clip/wo-liegt-der-mittelpunkt-deutschlands
 - https://www.pressreader.com/germany/thuringer-allgemeine-eisenach/20260128/282527254853462
